@@ -1,10 +1,11 @@
-{ "name": "@heidibang/lotr-sdk",
-"version": "0.0.0",
-"author": "Heidi Bang",
-"repository": {
-  "type": "git",
-  "url": "https://github.com/heidibang/lotr-sdk.git"
-},
+{
+  "name": "@heidibang/lotr-sdk",
+  "version": "0.0.0",
+  "author": "Heidi Bang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heidibang/lotr-sdk.git"
+  },
   "devDependencies": {
     "@types/jest": "^29.4.0",
     "@types/node": "^14.11.2",

@@ -16,7 +16,8 @@ Once you have created your access token, you are now ready to use this SDK.
 
 Initialize with the following:
 
-```const lotr = new LOTR({
+```
+const lotr = new LOTR({
   baseUrl: 'https://the-one-api.dev/v2',
   accessToken: <your-access-token>
 });
