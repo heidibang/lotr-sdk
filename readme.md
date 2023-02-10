@@ -27,5 +27,7 @@ Initialize with the following:
 Currently the following methods are supported:
 
 `getMovies()`
+
 `getSingleMovies(movieId)`
+
 `getMovieQuotes(movieId)`
