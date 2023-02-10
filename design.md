@@ -14,7 +14,7 @@ Methods for Retrieving Data: The SDK will provide three methods for retrieving d
 
 `getSingleMovie(movieId)`: Request one specific movie.
 
-`getMovieQuotes()`: Request all movie quotes for one specific movie (only working for the LotR trilogy).
+`getMovieQuotes(movieId)`: Request all movie quotes for one specific movie (only working for the LotR trilogy).
 
 ### File Structure
 The file structure of the SDK has been organized in a modular way to allow for easy maintenance and future updates. The following is an overview of the file structure:
