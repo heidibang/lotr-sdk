@@ -1,9 +1,9 @@
-##The Lord of The Rings SDK
+## The Lord of The Rings SDK
 
-###Overview
+### Overview
 The goal is to provide a simple and efficient way for developers to access data from the API. The SDK will handle the authentication process using an access token, and provide three methods for retrieving data from the API
 
-###Key Components
+### Key Components
 The SDK will consist of the following components:
 
 Access Token Management: The SDK will handle the authentication process using an access token. The token will be used to access the API and retrieve data.
@@ -14,7 +14,7 @@ Methods for Retrieving Data: The SDK will provide three methods for retrieving d
 `getSingleMovie(movieId)`: Request one specific movie.
 `getMovieQuotes()`: Request all movie quotes for one specific movie (only working for the LotR trilogy).
 
-###File Structure
+### File Structure
 The file structure of the SDK has been organized in a modular way to allow for easy maintenance and future updates. The following is an overview of the file structure:
 
 ```
