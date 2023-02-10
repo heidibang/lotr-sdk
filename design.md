@@ -11,7 +11,9 @@ Access Token Management: The SDK will handle the authentication process using an
 Methods for Retrieving Data: The SDK will provide three methods for retrieving data from the API in a format that is easy to work with. The methods are:
 
 `getMovies()`: List of all movies, including the "The Lord of the Rings" and the "The Hobbit" trilogies.
+
 `getSingleMovie(movieId)`: Request one specific movie.
+
 `getMovieQuotes()`: Request all movie quotes for one specific movie (only working for the LotR trilogy).
 
 ### File Structure
