@@ -2,6 +2,7 @@
   "name": "@heidibang/lotr-sdk",
   "version": "0.0.2",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "author": "Heidi Bang",
   "repository": {
     "type": "git",
