@@ -1,5 +1,5 @@
 import axios, {AxiosResponse} from 'axios';
-import {LOTR} from './lotr-sdk';
+import {LOTR} from '.';
 import {
   mockMovieQuoteResponse,
   mockMovieResponse,
